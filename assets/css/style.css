@@ -33,3 +33,21 @@ body {
 .imagen {
 	max-width: 100%;
 }
+
+.footer-texto {
+	font-family: 'Just Another Hand', sans-serif;
+	text-align: left;
+	font-size: 60px;
+	padding: 30px;
+	vertical-align: middle;
+}
+
+.footer-iconos {
+	color: #000000;
+	vertical-align: middle;
+	padding: 7px;
+}
+
+.footer-texto, .footer-iconos {
+	display: inline-block;
+}
