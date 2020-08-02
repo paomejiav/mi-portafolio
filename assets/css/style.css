@@ -1,0 +1,25 @@
+body {
+	font-family: 'Montserrat', sans-serif; 
+}
+
+.hero {
+	background-image: url(../img/bg-foto.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: right;
+	height: 550px;
+}
+
+.logo {
+	font-family: 'Just Another Hand', sans-serif;
+	font-size: 35pt;
+
+}
+
+.brand-color {
+	background-color: #D4DEFF;
+}
+
+.texto-brand {
+	color: #D4DEFF;
+}
